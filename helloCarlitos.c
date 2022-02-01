@@ -1,2 +1,6 @@
- pritf("Im sadding no quiero estudiar ni hacer nada");
- return 0
+ #include <stdio.h>
+
+ int main() {
+	printf("wenas\n");
+ 	return 0;
+ }
