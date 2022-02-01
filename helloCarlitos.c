@@ -1,7 +1,6 @@
  #include <stdio.h>
 
  int main() {
- 	printf("Im sadding no quiero estudiar ni hacer nada\n");
-	printf("sad\n");
+	printf("wenas\n");
  	return 0;
  }
